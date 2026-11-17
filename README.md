@@ -220,8 +220,15 @@ My professional journey includes working across IT infrastructure, Linux adminis
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
-  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
+  <img src="./profile/stats.svg"
+       width="49%"
+       height="220"
+       alt="GitHub Statistics"/>
+
+  <img src="./profile/top-langs.svg"
+       width="49%"
+       height="220"
+       alt="Top Languages"/>
 </p>
 
 ---

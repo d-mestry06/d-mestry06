@@ -220,8 +220,8 @@ My professional journey includes working across IT infrastructure, Linux adminis
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-mestry06&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-mestry06&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 </p>
 
 ---

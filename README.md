@@ -217,19 +217,26 @@ My professional journey includes working across IT infrastructure, Linux adminis
 
 ---
 
+
 <h2>📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="./profile/stats.svg"
-       width="49%"
-       height="220"
-       alt="GitHub Statistics"/>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./profile/stats.svg"
+           width="100%"
+           height="220"
+           alt="GitHub Statistics"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./profile/top-langs.svg"
+           width="100%"
+           height="220"
+           alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="./profile/top-langs.svg"
-       width="49%"
-       height="220"
-       alt="Top Languages"/>
-</p>
 
 ---
 

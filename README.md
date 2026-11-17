@@ -220,12 +220,16 @@ My professional journey includes working across IT infrastructure, Linux adminis
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-mestry06&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-mestry06&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=d-mestry06&theme=tokyonight&hide_border=true" width="75%"/>
+  <img src="https://streak-stats.demolab.com?user=d-mestry06&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -233,9 +237,8 @@ My professional journey includes working across IT infrastructure, Linux adminis
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d-mestry06/d-mestry06/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+  <img src="https://raw.githubusercontent.com/d-mestry06/d-mestry06/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 </p>
-
 ---
 
 ## 🤝 Let's Connect!
